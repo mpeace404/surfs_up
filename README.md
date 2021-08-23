@@ -11,8 +11,8 @@ W.Avy is a potential investor for the unnamed surf shop/ice cream parlor; but he
 
 After the deliverables were completed, it was determined that:
 
-* While it is expected that December will have cooler temps, the change isn't really that drastic. Low temps have the largest disparity, averaging 60 degrees in December, and 71 degrees in June
-* Average temps are nearly comparable, with an average temp of 77 degrees in June and 71 degrees in December
+* While it is expected that December will have cooler temps, the change isn't really that drastic. Low temps have the largest disparity, averaging 56 degrees in December, and 64 degrees in June
+* Average temps are nearly comparable, with an average temp of 74 degrees in June and 71 degrees in December
 * Max temps for both months are in the low to mid 80s
 
 ![image](https://user-images.githubusercontent.com/82191831/130393195-328b9e16-dbbd-41ee-95b9-76b74647dff8.png)
