@@ -13,11 +13,11 @@ After the deliverables were completed, it was determined that:
 
 * While it is expected that December will have cooler temps, the change isn't really that drastic. Low temps have the largest disparity, averaging 60 degrees in December, and 71 degrees in June
 * Average temps are nearly comparable, with an average temp of 77 degrees in June and 71 degrees in December
-* Max temps for both months are in the low 80s (83 degrees) 
+* Max temps for both months are in the low to mid 80s
 
-![image](https://user-images.githubusercontent.com/82191831/130391153-60a32bbc-5b37-40f0-9601-cb4cdbe7a3ea.png)
+![image](https://user-images.githubusercontent.com/82191831/130393195-328b9e16-dbbd-41ee-95b9-76b74647dff8.png)
 
-![image](https://user-images.githubusercontent.com/82191831/130391188-32039b63-becf-4bb4-9e46-fffb37b4ace1.png)
+![december stats](https://user-images.githubusercontent.com/82191831/130393213-5fd94080-1ef9-4ab1-b0a9-59cf1bdb9130.jpg)
 
 
 
